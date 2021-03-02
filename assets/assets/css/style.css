@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header styling */
 
 header {
     padding: 20px;
@@ -23,7 +24,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* nav styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* big image styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* main middle styling */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside content styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +102,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* middle content styling */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,7 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
