@@ -10,5 +10,5 @@ consolidated css code,
 added alt tags,
 fixed title,
 
-![screenshot](assets\assets\images\screenshot.JPG)
-[Live github link](https://mknauss97.github.io/First-Homework)
+![screenshot](assets/assets/images/screenshot.JPG)
+[Live github link](https://mknauss97.github.io/First-Homework
