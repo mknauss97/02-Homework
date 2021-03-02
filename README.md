@@ -10,5 +10,5 @@ consolidated css code,
 added alt tags,
 fixed title,
 
-<image src=".\assets\assets\images\screenshot.JPG" alt="screenshot of website"/>
+![screenshot](assets\assets\images\screenshot.JPG)
 [Live github link](https://mknauss97.github.io/First-Homework)
